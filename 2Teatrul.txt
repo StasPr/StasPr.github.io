@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Teatrul M.Eminescu</title>
+</head>
+<body bgcolor="yellow">
+<a href="http://www.tnme.md/">
+<h1 style="text-align: center;">Teatrul M.Eminescu</h1>
+</a>
+<div style="display: flex;justify-content: center;">
+<img src = "f.jfif" width="400" border="1">	
+</div>
+<p> <font color="800000">Teatrul Național "Mihai Eminescu" din Chișinău își începe istoria pe 10 octombrie 1920, atunci când primul teatru stabil de expresie română în Basarabia a fost înființat din inițiativa unui grup de fruntași ai vieții publice locale de epocă în frunte cu Sergiu T. Niță, ministru al Basarabiei în guvernul României, Ștefan Ciobanu, membru al academiei Române, scriitorii: Nicolae N. Beldiceanu, Nicolae Beldiman, Leon Donici și regizorul Gheorghe Mitu Dumitriu</font></p>
+<a href = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%D0%9A%D0%B8%D1%88%D0%B8%D0%BD%D1%91%D0%B2._%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%D0%B8%D0%BC._%D0%AD%D0%BC%D0%B8%D0%BD%D0%B5%D1%81%D0%BA%D1%83..JPG/1200px-%D0%9A%D0%B8%D1%88%D0%B8%D0%BD%D1%91%D0%B2._%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%D0%B8%D0%BC._%D0%AD%D0%BC%D0%B8%D0%BD%D0%B5%D1%81%D0%BA%D1%83..JPG"><ul> <li style="font-size: 20px">Clădirea teatrului Național "Mihai Eminescu"</li></ul></a>
+<p><font color="blue"><font face="Arial">Clădirea Teatrului Național "Mihai Eminescu" are statulul de monument de artă, arhitectură și istorie de însemnătate națională și a fost introdusă în Registrul monumentelor de istorie și cultură a municipiului Chișinău la inițiativa Academiei de Științe din Moldova</font></font></p>
+<hr>
+<p><font color="blue"><font face="Comic Sans MS">Prima încercare de construcție a acestei clădiri a fost la începutul anilor 30 ai secolului al XX-lea în stil neoclasic, dar în legătură cu depresia economică, construcția lui a fost conservată. În anii 1949–1953 a fost finisat proiectul, sub conducerea arhitectei Galadjeva de la trustul unional "Teatrproiect", interioarele și fațadele – sub conducerea arhitecților din RSSM V. F. Smirnov și V. P. Alexandrov, cu păstrarea formelor și stilisticii interbelice. Construcția clădirii a fost finisată în primăvara anului 1954.---></font></font>
+<a href="https://ro.wikipedia.org/wiki/Teatrul_Na%C8%9Bional_%E2%80%9EMihai_Eminescu%E2%80%9D_din_Chi%C8%99in%C4%83u">
+	Sursa informatiei <---
+	</a>
+	<a href="_3f.HTML">
+	</p>
+		<ol>
+	<li style="font-size: 20px">Un scurt video cu teatrul Mihai Eminescu</li>
+</ol>
+	</a>
+	<hr>
+		<h3 style="text-align: center">Apasa pe imaginea de mai jos pentru a vedea orarul evenimentelor la teatrul Mihai Eminescu<h3>
+<a href = "_4tabel.html">
+	<div style="display: flex;justify-content: center;">
+<img src = "spectacol.jfif"  width="300">
+</a>
+</div>
+<a href="_5Regulament.html">
+<h2 style="text-align: center;">Apasa aici pentru a vedea regulament de participare la evenimente</h2>
+</a>
+<hr style="font-size: 20px">
+
+
+<h3 style="text-align: center;">Vechea cladire</h3>
+<div style="display: flex;justify-content: center;">
+<img src = "Vechea.jfif" width="200">
+</div>
+<h3 style="text-align: center;">Sala mare</h3>
+<div style = "display: flex; justify-content: center;">
+<img src = "sala.jpg" width="300">
+</div>
+
+
+
+
+
+
+
+
+
+</body>
+</html>

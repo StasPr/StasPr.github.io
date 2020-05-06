@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Videoclip cu Teatrul M.Eminescu</title>
+</head>
+<body bgcolor="black">
+	<h1 style="text-align: center;"><font color ="white">
+		Videoclipul cu teatrul M.Eminescu
+	</font>
+	</h1>
+	<iframe width="1897" height="873" src="https://www.youtube.com/embed/KX1FG0UmAXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>

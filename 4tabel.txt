@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Orarul evenimentelor</title>
+	<meta name="viewpoint" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" media="screen" href = "style.css">
+</head>
+<body bgcolor="#33ffd4">
+<table align="center" style="position: absolute; top: 30%; left: 30%;">  
+	
+	<caption>Lista evenimentelor de luna trecuta</caption>
+<tr> 
+<th>28 Aprilie 2020</th>
+<th>19 Aprilie 2020</th>
+<th>15 Aprilie 2020</th>
+</tr>
+<tr>
+	<th>În memoriam Ioan Onceanu</th>
+	<th>Familia TNME vă urează un Paște Fericit!</th>
+	<th>Spectacolul "Casa Mare" disponibil online #staiacasă</th>
+</tr>
+
+	</tr>
+
+
+
+
+</table>
+
+
+
+
+
+</body>
+</html>
